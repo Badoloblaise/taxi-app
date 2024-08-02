@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143832489419",
+    "project_id": "taxi-driver-7de52",
+    "storage_bucket": "taxi-driver-7de52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143832489419:android:620ed1f46ef959efce6a4e",
+        "android_client_info": {
+          "package_name": "com.example.cetici_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRsUbEb8tiBHOUysm5Rxc2ZzLol1l__w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
